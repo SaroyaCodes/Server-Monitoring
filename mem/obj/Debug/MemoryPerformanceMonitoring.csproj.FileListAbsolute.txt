@@ -1,0 +1,45 @@
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\bin\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\bin\Debug\MemoryPerformanceMonitoring.pdb
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\Window1.baml
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\Window2.baml
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\Window1.g.cs
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\Window2.g.cs
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\App.g.cs
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring_MarkupCompile.cache
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring.g.resources
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring.Properties.Resources.resources
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring.csproj.GenerateResource.Cache
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\Pulkit\Desktop\MemoryPerformanceMonitoring\obj\Debug\MemoryPerformanceMonitoring.pdb
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.pdb
+C:\Users\Pulkit\Desktop\mem\bin\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\Pulkit\Desktop\mem\bin\Debug\MemoryPerformanceMonitoring.pdb
+C:\Users\Pulkit\Desktop\mem\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Pulkit\Desktop\mem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pulkit\Desktop\mem\obj\Debug\Window1.baml
+C:\Users\Pulkit\Desktop\mem\obj\Debug\Window2.baml
+C:\Users\Pulkit\Desktop\mem\obj\Debug\Window1.g.cs
+C:\Users\Pulkit\Desktop\mem\obj\Debug\Window2.g.cs
+C:\Users\Pulkit\Desktop\mem\obj\Debug\App.g.cs
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring_MarkupCompile.cache
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.g.resources
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.Properties.Resources.resources
+C:\Users\Pulkit\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.csproj.GenerateResource.Cache
+C:\Users\sony vaio\Desktop\mem\bin\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\sony vaio\Desktop\mem\bin\Debug\MemoryPerformanceMonitoring.pdb
+C:\Users\sony vaio\Desktop\mem\bin\Debug\DynamicDataDisplay.dll
+C:\Users\sony vaio\Desktop\mem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sony vaio\Desktop\mem\obj\Debug\Window1.baml
+C:\Users\sony vaio\Desktop\mem\obj\Debug\Window2.baml
+C:\Users\sony vaio\Desktop\mem\obj\Debug\Window1.g.cs
+C:\Users\sony vaio\Desktop\mem\obj\Debug\Window2.g.cs
+C:\Users\sony vaio\Desktop\mem\obj\Debug\App.g.cs
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring_MarkupCompile.cache
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.g.resources
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.Properties.Resources.resources
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.csproj.GenerateResource.Cache
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.exe
+C:\Users\sony vaio\Desktop\mem\obj\Debug\MemoryPerformanceMonitoring.pdb
